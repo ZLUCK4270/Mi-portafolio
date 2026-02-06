@@ -47,4 +47,9 @@ Estudiante de Ingeniería de Software con IA (4to ciclo, SENATI). Formación pr�
 - **Ofimática**: Microsoft Excel, Word, PowerPoint
 - **Sistemas operativos**: Linux (Red Hat)
 - **Control de versiones**: Git/GitHub (en aprendizaje)
+  
+## Experiencia laboral
+- **Asesor de Ventas** - COVISIAN ESPAÑA S.L., Sucursal en Perú (Abril 2024 – Junio 2024)
+- **Ventas Retail** - Mercado (Enero 2023 – Enero 2024 | Julio 2024 – Mayo 2025)
+- **Auxiliar de Servicio, Consultor de ventas** - HOMECENTERS PERUANOS S.A. (Junio 2025 – Febrero 2026)
 
